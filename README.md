@@ -9,8 +9,6 @@ Projeto de site responsivo criado para exibir carros de luxo com visual moderno 
 ![Preview do projeto](./img/gif-preview.gif)
 ![Preview do projeto](./img/screenshot.png)
 
-Acesse o site online em: [https://pedrohg3.github.io/FP](https://pedrohg3.github.io/FP) *(caso GitHub Pages esteja ativado)*
-
 ---
 
 ## 📸 Sobre o Projeto
